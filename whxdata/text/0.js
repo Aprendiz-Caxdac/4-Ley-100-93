@@ -1,0 +1,1 @@
+rh._.exports({"0":[["Periodos Cruzados de Afiliados"]],"1":[[" ","Periodos Cruzados de Afiliados"]],"2":[[" ","Registra el manejo de los tiempos cruzados de los afiliados a CAXDAC con otras empresas de aviación."]],"id":"0"})

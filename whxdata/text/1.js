@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Cuentas de Cobro"]],"1":[[" ","Cuentas de Cobro"]],"2":[[" ","Para generar cuentas de cobro reales cuando se evidencian direncias en aportes de empresas de aviación."]],"id":"1"})

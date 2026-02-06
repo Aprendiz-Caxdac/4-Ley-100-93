@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Tabla de Control"]],"1":[[" ","Tabla de Control"]],"2":[[" ","Junta Directiva"," ","Haga clic aquí para ver esta página en contexto"],[" ","Nombre"," ","Cargo"," ","Fecha"," ","Elaboró"," ","Santiago Mateo Montoya Vasquez"," ","Auxiliar de Tecnología"," ","Noviembre 2025"," ","Revisó"," ","Aprobó"]],"id":"47"})
