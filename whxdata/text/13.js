@@ -1,1 +1,0 @@
-rh._.exports({"0":[[" ","Autoliquidación Automática"]],"1":[[" ","Autoliquidación Automática"]],"2":[[" ","Esta ventana se utiliza para traer las autoliquidaciones que ya han sido contabilizadas."]],"id":"13"})

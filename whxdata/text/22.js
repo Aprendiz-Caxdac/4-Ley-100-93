@@ -1,1 +1,0 @@
-rh._.exports({"0":[[" ","Tablas Básicas"]],"1":[[" ","Tablas Básicas"]],"2":[[" ","Al dar clic sobre el módulo de Tablas Básicas (como se muestra en la imagen anterior), se despliegan los siguientes submenús:"," ","Temas Relacionados"," ","Autoliquidación","Procesos","Reportes","Seguridad"]],"id":"22"})
