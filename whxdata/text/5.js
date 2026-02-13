@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Modificar Encabezado Autoliquidación"]],"1":[[" ","Modificar Encabezado Autoliquidación"]],"2":[[" ","Sirve para actualizar los datos del encabezado de la Autoliquidación, los datos modificables son únicamente los que se encuentran de color verde."]],"id":"5"})

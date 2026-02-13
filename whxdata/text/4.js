@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Cierre Base de Datos Mensual Pensionados"]],"1":[[" ","Cierre Base de Datos Mensual Pensionados"]],"2":[[" ","Ventana para reportar las novedades que se hayan generado durante el mes para los afiliados pensionados que se encuentran en CAXDAC."," ","Ver También"," ","Anexo Técnico de Pensiones","Cierre Base de Datos","RUAF"]],"id":"4"})

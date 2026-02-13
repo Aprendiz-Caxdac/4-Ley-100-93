@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","RUAF"]],"1":[[" ","RUAF"]],"2":[[" ","En esta ventana se despliegan los siguientes sub_menus."," ","Temas Relacionados"," ","Otros","Reportes","Procesos","Seguridad","Tablas Básicas","Autoliquidación"]],"id":"6"})
